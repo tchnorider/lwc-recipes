@@ -30,9 +30,10 @@ There are two ways to install Lightning Web Components Recipes:
 sfdx force:auth:web:login -d -a myhuborg
 ```
 
-```
+
 3. Clone the lwc-recipes repository:
 
+```
 git clone https://github.com/technolau/lwc-recipes
 cd lwc-recipes
 
