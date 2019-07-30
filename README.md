@@ -32,9 +32,9 @@ sfdx force:auth:web:login -d -a myhuborg
 
 3. Clone the lwc-recipes repository:
 
-```
-git clone https://github.com/trailheadapps/lwc-recipes
+git clone https://github.com/technolau/lwc-recipes
 cd lwc-recipes
+-- git clone https://github.com/trailheadapps/lwc-recipes
 ```
 
 4. Create a scratch org and provide it with an alias (**lwc-recipes** in the command below):
